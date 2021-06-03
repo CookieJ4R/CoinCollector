@@ -1,0 +1,19 @@
+{
+  "name": "coincollection",
+  "productName": "Coin Collection",
+  "version": "1.0.0",
+  "description": "A Coin Collection manager built using electron.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Kevin Binder",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "nedb": "^1.8.0",
+    "electron": "^7.0.1",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}
