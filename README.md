@@ -7,7 +7,7 @@ Based on the simple nature of the web scrapper this feature may break sometime i
 
 A console is also implemented that allows fixing errors, adding years and countries by hand as well as printing a log file to look for errors in the database.
 
-##Screenshots
+## Screenshots
 ![Screeshot_1](screenshot_1.PNG)
 ![Screeshot_2](screenshot_2.PNG)
 
